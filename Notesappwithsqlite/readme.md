@@ -22,7 +22,7 @@ An application to create, edit, and delete notes, stored locally using SQLite.
 
 ## Screenshots
 
-_Insert screenshots here if available._
+_Insert screenshots here is available._
 
 ## License
 
